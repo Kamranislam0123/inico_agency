@@ -3,7 +3,7 @@ import React from "react";
 
 function Header() {
   return (
-    <header className="bg-transparent text-white py-4 px-6 shadow-md">
+    <header className=" text-white py-4 px-6 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
         <Image src="/Logo.png" width={119} height={62} alt="logo" />
         <nav className="flex-1 flex justify-center">
